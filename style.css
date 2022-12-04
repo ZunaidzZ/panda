@@ -20,3 +20,47 @@
     background-color: #ff136f;
     border: none;
 }
+
+.cat1{
+    background-image: linear-gradient(orange,yellow);
+    border-radius: 15px;
+    
+}
+
+.cat2{
+    background-image: linear-gradient(#ff136f, rgb(172, 43, 118));
+    border-radius: 15px;
+}
+
+.cat3{
+    background-image: linear-gradient(blue, rgb(90, 135, 224));
+    border-radius: 15px;
+    
+}
+
+.cat1, .cat2{
+    padding: 10px 20px; 
+}
+
+.categories h2{
+    color: #feeae9;
+}
+
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+}
